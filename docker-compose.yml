@@ -6,4 +6,4 @@ services:
     ports:
       - 15150:3000
     environment:
-      - BOT_ID=xxxx
+      - BOT_ID=7372225590877372421
